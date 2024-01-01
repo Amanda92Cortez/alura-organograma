@@ -30,4 +30,4 @@
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-organograma-v2/assets/19363871/b6904ccc-4778-4fca-a791-a85d81e562cf)
 
-![image](https://github.com/Amanda92Cortez/alura-organograma-v2/assets/19363871/a22bdb15-b653-43c8-a285-90e50fc5a724)
+![image](https://github.com/Amanda92Cortez/alura-organograma-v2/assets/19363871/4822e588-9e9a-4f51-ad29-79c1fb39cce6)
