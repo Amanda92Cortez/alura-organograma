@@ -9,6 +9,11 @@
 
 # :pushpin: Cursos
 - `Curso ` React: Como os componentes funcionam
+   - Aprenda a clonar um projeto existente no GitHub, instalar as dependências necessárias e rodar o código
+   - Entenda o que são dependências e como instalar novas dependências
+   - Compare como o React vê um componente, assim como seus props e states
+   - Faça mudanças no código, como criação de novas features e refatoração de código existente
+   - Saiba o que é one-way data binding, e o que isto tem a ver com VirtualDOM (e por que o React é feito desta forma)
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade ` Sinalizando para deletar os colaboradores + mudança de cores de cada time + cadastrar novo time com cor
