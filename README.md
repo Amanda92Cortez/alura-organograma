@@ -2,15 +2,16 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Organograma Alura</h1>
+<h1>Organograma - Alura</h1>
 
-# :pushpin: Sobre do projeto
-- `Formação` Explore React com JavaScript
-- `Curso: React` React: Como os componentes funcionam
-</br></br>
+# :pushpin: Formações
+- `Formação ` Explore React com JavaScript
+
+# :pushpin: Cursos
+- `Curso ` React: Como os componentes funcionam
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Sinalizando para deletar os colaboradores + mudança de cores de cada time + cadastrar novo time com cor
+- `Funcionalidade ` Sinalizando para deletar os colaboradores + mudança de cores de cada time + cadastrar novo time com cor
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,12 +21,12 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/alura-organograma-v2.git
-- `Baixar npm` npm install
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-organograma-v2.git
+- `Baixar npm ` npm install
 - `Instalar react-icon ` npm install react-icons --save
 - `Instalar hex-to-rgb ` npm install hex-to-rgb --save
 - `Instalar uuid ` npm install uuid
-- `Executar` npm start
+- `Executar ` npm start
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-organograma-v2/assets/19363871/b6904ccc-4778-4fca-a791-a85d81e562cf)
