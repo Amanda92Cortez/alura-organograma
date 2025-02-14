@@ -3,7 +3,7 @@
     Organograma
     <br />
     <br />
-    <img src="src/img/image_06.gif" alt="Gif">
+    <img src="src/img/banner.avif" alt="Banner">
     <br />
   </h1>
 
