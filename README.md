@@ -31,6 +31,11 @@ Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub com Time. T
 
 ---
 
+` Curso: ` [Alura - React: desenvolvendo com JavaScript]("https://www.alura.com.br/curso-online-react-desenvolvendo-javascript")
+` Curso: ` [Alura - React: como os componentes funcionam]("https://www.alura.com.br/curso-online-react-componentes-funcionam")
+
+---
+
 # :computer: Ferramentas<a name="id02"></a>
 
 <div style="display: flex; gap: 10px;">
